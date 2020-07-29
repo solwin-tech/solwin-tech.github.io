@@ -144,11 +144,7 @@ header {
 }
 /** search bar **/
 #custom-search-input {
-    padding: 0;
-    border: none;
-    border-radius: 50px;
-    background-color: #fff;
-    overflow: hidden;
+    padding: 10px;
     margin: 10px 0;
 }
 #custom-search-input .form-control.input-lg {
